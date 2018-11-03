@@ -1,0 +1,31 @@
+
+
+.title-header{
+    font-family: Arial, Helvetica, Verdana;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+ul {
+   list-style-type: none; 
+}
+
+ul li a{
+    color: black;
+    font-family: Arial, Helvetica, Verdana;
+    font-weight: bold;
+    text-decoration: none;
+    float: left;
+}
+
